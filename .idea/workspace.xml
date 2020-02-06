@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a0599b18-ed94-450f-b9d6-02ed2a80aa30" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/api/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/router/_import_.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/money.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/apply/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/member/withdraw.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/merchant/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.env.production" beforeDir="false" afterPath="$PROJECT_DIR$/.env.production" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mock/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/mock/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Breadcrumb/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Breadcrumb/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/components/AppMain.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/components/AppMain.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/components/Navbar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/components/Sidebar/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/components/Sidebar/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/layout/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/layout/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/permission.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/permission.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/settings.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/store/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/index.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/index.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/request.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/request.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/validate.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/validate.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/dashboard/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/form/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/login/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu1/menu1-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu1/menu1-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu1/menu1-2/menu1-2-1/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu1/menu1-2/menu1-2-2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu1/menu1-3/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/nested/menu2/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/table/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/tree/index.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vue.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/vue.config.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TH1D32ufKI8VD7g6H2TO1lKC22" />
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ChangesTree.GroupingKeys" value="directory" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\admin_main\src\utils" />
+      <recent name="C:\Users\Administrator\Desktop\admin_main\src\views\member" />
+      <recent name="C:\Users\Administrator\Desktop\admin_main\src\views\merchant" />
+      <recent name="C:\Users\Administrator\Desktop\admin_main\src\views\service" />
+      <recent name="C:\Users\Administrator\Desktop\admin_main\src\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a0599b18-ed94-450f-b9d6-02ed2a80aa30" name="Default Changelist" comment="" />
+      <created>1573102083064</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573102083064</updated>
+      <workItem from="1573102084107" duration="3601000" />
+      <workItem from="1573121460779" duration="2743000" />
+      <workItem from="1573124226124" duration="16688000" />
+      <workItem from="1573273096870" duration="42557000" />
+      <workItem from="1573470085907" duration="144330000" />
+      <workItem from="1573954059127" duration="38590000" />
+      <workItem from="1573994150009" duration="673000" />
+      <workItem from="1573994837663" duration="101000" />
+      <workItem from="1573994939167" duration="127000" />
+      <workItem from="1573995103555" duration="26000" />
+      <workItem from="1573995617171" duration="143101000" />
+      <workItem from="1574396527446" duration="6318000" />
+      <workItem from="1574402926392" duration="61001000" />
+      <workItem from="1574674939066" duration="11192000" />
+      <workItem from="1574745252171" duration="26048000" />
+      <workItem from="1574820247377" duration="4868000" />
+      <workItem from="1574828276894" duration="1565000" />
+      <workItem from="1574835012930" duration="26735000" />
+      <workItem from="1574924608250" duration="231000" />
+      <workItem from="1574935077968" duration="1828000" />
+      <workItem from="1575019330900" duration="157925000" />
+      <workItem from="1575597447249" duration="39663000" />
+      <workItem from="1575866129050" duration="3083000" />
+      <workItem from="1575876789372" duration="4795000" />
+      <workItem from="1575976185931" duration="8239000" />
+      <workItem from="1576145810219" duration="1397000" />
+      <workItem from="1576147250314" duration="65000" />
+      <workItem from="1576150797329" duration="5818000" />
+      <workItem from="1576237216598" duration="7342000" />
+      <workItem from="1576464163302" duration="1069000" />
+      <workItem from="1576480180030" duration="615000" />
+      <workItem from="1576483722514" duration="55978000" />
+      <workItem from="1576843089556" duration="3181000" />
+      <workItem from="1577014145853" duration="1076000" />
+      <workItem from="1577067302919" duration="52023000" />
+      <workItem from="1577414118448" duration="133000" />
+      <workItem from="1577415291860" duration="2572000" />
+      <workItem from="1577435112344" duration="13557000" />
+      <workItem from="1579573378377" duration="4483000" />
+      <workItem from="1580363521432" duration="1373000" />
+      <workItem from="1580450945502" duration="237000" />
+      <workItem from="1580451264297" duration="2714000" />
+      <workItem from="1580642459179" duration="6137000" />
+      <workItem from="1580957915672" duration="1483000" />
+      <workItem from="1580960178152" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/login/index.vue</url>
+          <line>116</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/main.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/permission/index.vue</url>
+          <line>1</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/add.vue</url>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/auth/list.vue</url>
+          <line>15</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/router/index.js</url>
+          <line>5</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/views/email/index.vue</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
