@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a0599b18-ed94-450f-b9d6-02ed2a80aa30" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/monitor/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/monitor/index.vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -119,6 +120,8 @@
       <workItem from="1580957915672" duration="1483000" />
       <workItem from="1580960178152" duration="16000" />
       <workItem from="1580973186568" duration="926000" />
+      <workItem from="1580975658483" duration="70000" />
+      <workItem from="1581079602760" duration="851000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1580973478319</created>
@@ -127,7 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580973478319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1580975685011</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580975685011</updated>
+    </task>
+    <task id="LOCAL-00003" summary="第一次提交">
+      <created>1580975715306</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580975715306</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
